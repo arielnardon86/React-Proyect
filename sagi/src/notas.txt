@@ -1,0 +1,1 @@
+Clase -> Tienen un metodo especial que es el mètodo render()
